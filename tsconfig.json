@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // Arquivo compilado
+    "module": "commonjs", // Tipo de módulo
+    "target": "es2019", // Tipo de compilador
+    "esModuleInterop": true, // Permite a interligação de módulos
+    "allowJs": true, // Permite o uso de .js
+  }
+}
